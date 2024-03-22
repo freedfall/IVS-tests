@@ -1,0 +1,69 @@
+NonEmptyGraph.nodes 0 0
+NonEmptyGraph.edges 0 0
+NonEmptyGraph.addNode 0 0
+NonEmptyGraph.addEdge 0 0
+NonEmptyGraph.addMultipleEdges 0 0
+NonEmptyGraph.getNode 0 0
+NonEmptyGraph.containsEdge 0 0
+NonEmptyGraph.removeNode 0 0
+NonEmptyGraph.removeEdge 0 0
+NonEmptyGraph.nodeCount 0 0
+NonEmptyGraph.edgeCount 0 0
+NonEmptyGraph.nodeDegree 0 0
+NonEmptyGraph.graphDegree 0 0
+NonEmptyGraph.coloring 0 0
+NonEmptyGraph.clear 15 0.000341029
+EmptyGraph.nodes 15 0.000315397
+EmptyGraph.edges 15 0.000326115
+EmptyGraph.addNode 0 0
+EmptyGraph.addEdge 0 0
+EmptyGraph.addMultipleEdges 0 0
+EmptyGraph.getNode 15 0.000330804
+EmptyGraph.containsEdge 15 0.000307076
+EmptyGraph.removeNode 0 0
+EmptyGraph.removeEdge 0 0
+EmptyGraph.nodeCount 0 0
+EmptyGraph.edgeCount 0 0
+EmptyGraph.nodeDegree 0 0
+EmptyGraph.graphDegree 0 0
+EmptyGraph.coloring 15 0.000311057
+EmptyGraph.clear 15 0.000333048
+Edges.equal 15 0.000380377
+Edges.nonEqual 15 0.00033586
+Edges.toStringStream 15 0.000321105
+black_box_test_NOT_BUILT 0 0
+white_box_test_NOT_BUILT 0 0
+tdd_test_NOT_BUILT 0 0
+EmptyTree.InsertNode 13 0.000293454
+EmptyTree.DeleteNode 13 0.000474914
+EmptyTree.FindNode 13 0.000266737
+NonEmptyTree.InsertNode 13 0.000302781
+NonEmptyTree.DeleteNode 13 0.000381933
+NonEmptyTree.FindNode 13 0.000338497
+TreeAxioms.Axiom1 10 0.000352296
+TreeAxioms.Axiom2 9 0.000362293
+TreeAxioms.Axiom3 8 0.00043205
+---
+NonEmptyGraph.nodes
+NonEmptyGraph.edges
+NonEmptyGraph.addNode
+NonEmptyGraph.addEdge
+NonEmptyGraph.addMultipleEdges
+NonEmptyGraph.getNode
+NonEmptyGraph.containsEdge
+NonEmptyGraph.removeNode
+NonEmptyGraph.removeEdge
+NonEmptyGraph.nodeCount
+NonEmptyGraph.edgeCount
+NonEmptyGraph.nodeDegree
+NonEmptyGraph.graphDegree
+NonEmptyGraph.coloring
+EmptyGraph.addNode
+EmptyGraph.addEdge
+EmptyGraph.addMultipleEdges
+EmptyGraph.removeNode
+EmptyGraph.removeEdge
+EmptyGraph.nodeCount
+EmptyGraph.edgeCount
+EmptyGraph.nodeDegree
+EmptyGraph.graphDegree
